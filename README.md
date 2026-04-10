@@ -44,7 +44,7 @@ Paste any block of text — lecture notes, articles, documentation, book chapter
 Visit the live version:
  
 ```
-https://yourusername.github.io/ai-flashcard-generator/flashcard-generator.html
+https://carson-emenecker.github.io/ai-flashcard-generator/flashcard-generator.html
 ```
  
 > Replace `yourusername` with your actual GitHub username after publishing.
