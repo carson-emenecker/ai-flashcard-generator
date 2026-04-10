@@ -46,9 +46,7 @@ Visit the live version:
 ```
 https://carson-emenecker.github.io/ai-flashcard-generator/flashcard-generator.html
 ```
- 
-> Replace `yourusername` with your actual GitHub username after publishing.
- 
+
 ---
  
 ## 🔑 API Key Setup
